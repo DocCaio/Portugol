@@ -1,8 +1,3 @@
-Aluno(a): CAIO MARTINS BARRROS
-Professor(a): 
-Tutor(a): 
-Disciplina: ALGORITMOS
-Atividade: 2
 
  Exercicio 1.1
 numero: inteiro
